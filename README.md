@@ -1,4 +1,4 @@
 # aula-backend-1.
-**Nome completo:** Ana Laura de Oliveira Martins
+**Nome completo:** Aluna Ana Laura de Oliveira Martins
 
 **Turma:** Tecnico desenvolvimento de sistema - 2A
